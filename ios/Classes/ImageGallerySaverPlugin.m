@@ -35,11 +35,11 @@
 }
 -(void)didFinishSavingImage:(UIImage *)image error:(NSError *)error contextInfo:(id)contextInfo{
     NSLog(@"wan");
-    self.result(@(error == nil));
+    self.result(@"");
 }
 -(void)didFinishSavingVideo:(NSString *)videoPath error:(NSError *)error contextInfo:(id)contextInfo{
     NSLog(@"wan单");
-    self.result(@(error == nil));
+    self.result(@"");
 
 }
 -(BOOL)isImageFile:(NSString *)fileName{

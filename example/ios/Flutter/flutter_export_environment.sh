@@ -1,8 +1,8 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
 export "FLUTTER_ROOT=/Users/zhq/flutter"
-export "FLUTTER_APPLICATION_PATH=/Users/zhq/Desktop/image_gallery_saver-1.2.2/example"
-export "FLUTTER_TARGET=/Users/zhq/Desktop/image_gallery_saver-1.2.2/example/lib/main.dart"
+export "FLUTTER_APPLICATION_PATH=/Users/zhq/fifthai/image_gallery_saver/example"
+export "FLUTTER_TARGET=/Users/zhq/fifthai/image_gallery_saver/example/lib/main.dart"
 export "FLUTTER_BUILD_DIR=build"
 export "SYMROOT=${SOURCE_ROOT}/../build/ios"
 export "FLUTTER_FRAMEWORK_DIR=/Users/zhq/flutter/bin/cache/artifacts/engine/ios"
