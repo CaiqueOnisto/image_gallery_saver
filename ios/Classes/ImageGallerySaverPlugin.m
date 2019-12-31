@@ -29,6 +29,7 @@
               UISaveVideoAtPathToSavedPhotosAlbum(path, self, @selector(didFinishSavingVideo:error:contextInfo:), nil);
           }
       }
+      result(path);
   } else {
     result(FlutterMethodNotImplemented);
   }
